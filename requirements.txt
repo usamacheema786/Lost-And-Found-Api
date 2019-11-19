@@ -1,0 +1,5 @@
+flask
+flask-Restful
+pyjwt
+flask-sqlalchemy
+werkzeug
